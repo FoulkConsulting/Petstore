@@ -1,0 +1,4 @@
+urlid jpetstore
+url jdbc:hsqldb:hsql://localhost/jpetstore
+username jpetstore
+password neoload99

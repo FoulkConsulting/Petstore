@@ -1,0 +1,1 @@
+@..\..\jdk1.5.0_04\bin\hsql -jar ..\lib\hsqldb.jar --rcfile sqltool.rc --sql shutdown jpetstore

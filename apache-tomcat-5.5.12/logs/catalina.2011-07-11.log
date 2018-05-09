@@ -1,0 +1,56 @@
+Jul 11, 2011 8:55:34 PM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at C:\SampleApps\Petstore\apache-tomcat-5.5.12\temp
+Jul 11, 2011 8:55:35 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Portable Runtime which allows optimal performance in production environments was not found on the java.library.path: C:\SampleApps\Petstore\jdk1.5.0_04\bin;.;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\Wave Systems Corp\Gemalto\Access Client\v5\;C:\Program Files\Dell\DW WLAN Card;C:\Program Files\Windows Live\Shared;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\RadView\WebLOAD\bin;C:\Program Files\RadView\WebLOAD\bin\jre\bin;C:\Program Files\QuickTime\QTSystem\;7
+Jul 11, 2011 8:55:35 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 11, 2011 8:55:35 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1222 ms
+Jul 11, 2011 8:55:35 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 11, 2011 8:55:35 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.12
+Jul 11, 2011 8:55:35 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Jul 11, 2011 8:55:36 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+Jul 11, 2011 8:55:36 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.action.ActionResources', returnNull=true
+Jul 11, 2011 8:55:37 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='properties.application', returnNull=true
+Jul 11, 2011 8:55:38 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 11, 2011 8:55:38 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 11, 2011 8:55:38 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/24  config=null
+Jul 11, 2011 8:55:38 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Jul 11, 2011 8:55:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3243 ms
+Jul 11, 2011 8:57:10 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:10 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:10 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:10 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:10 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:10 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:11 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:35 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:35 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:42 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:42 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:42 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+Jul 11, 2011 8:57:42 PM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true

@@ -1,0 +1,60 @@
+3 sept. 2008 08:56:53 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+3 sept. 2008 08:56:54 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+3 sept. 2008 08:56:54 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+3 sept. 2008 08:56:54 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+3 sept. 2008 08:56:54 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@aecb09')
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@199d8')
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@11b50a1')
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@721965')
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@e14ebc')
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1f82253')
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+3 sept. 2008 14:31:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+3 sept. 2008 14:31:13 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+3 sept. 2008 14:31:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+3 sept. 2008 14:31:13 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+3 sept. 2008 14:31:14 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+3 sept. 2008 14:31:14 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1ff6de1')
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@86d1da')
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@13b625b')
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1e3cc77')
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@84aa02')
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1b5a40a')
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+3 sept. 2008 15:52:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()

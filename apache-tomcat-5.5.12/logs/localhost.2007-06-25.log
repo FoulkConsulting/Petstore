@@ -1,0 +1,52 @@
+25 juin 2007 14:34:30 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+25 juin 2007 14:34:30 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+25 juin 2007 14:34:30 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+25 juin 2007 14:34:30 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+25 juin 2007 14:34:30 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@8491b8')
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@14596d5')
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1b19753')
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@13c296b')
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@c360a5')
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@fe2558')
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+25 juin 2007 14:58:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+25 juin 2007 14:58:16 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session catalogBean pour la session 8EE1097CBB6B9DE147976F687A9B7982
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:629)

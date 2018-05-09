@@ -1,0 +1,46 @@
+2 sept. 2008 08:59:53 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Portable Runtime which allows optimal performance in production environments was not found on the java.library.path: C:\Documents and Settings\ohanoun\Bureau\jpetstore_no_auth_tomcat\jdk1.5.0_04\bin;.;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\QuickTime\QTSystem\
+2 sept. 2008 08:59:53 org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+2 sept. 2008 08:59:53 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1984 ms
+2 sept. 2008 08:59:53 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+2 sept. 2008 08:59:53 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.12
+2 sept. 2008 08:59:53 org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+2 sept. 2008 08:59:54 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+2 sept. 2008 08:59:54 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.action.ActionResources', returnNull=true
+2 sept. 2008 08:59:54 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='properties.application', returnNull=true
+2 sept. 2008 08:59:57 org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+2 sept. 2008 08:59:57 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+2 sept. 2008 08:59:57 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/32  config=null
+2 sept. 2008 08:59:57 org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+2 sept. 2008 08:59:57 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4391 ms
+2 sept. 2008 09:19:23 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2 sept. 2008 09:19:23 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2 sept. 2008 09:19:23 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+2 sept. 2008 09:19:23 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2 sept. 2008 09:19:23 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2 sept. 2008 09:19:23 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2 sept. 2008 09:19:26 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2 sept. 2008 09:19:28 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2 sept. 2008 09:19:28 org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true

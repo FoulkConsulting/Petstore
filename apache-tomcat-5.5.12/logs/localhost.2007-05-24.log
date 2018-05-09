@@ -1,0 +1,544 @@
+24 mai 2007 10:25:34 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 10:25:34 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:25:34 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 10:25:34 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:25:34 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1cc5069')
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@b32ed4')
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1c7980c')
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1077fc9')
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1568fb5')
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1f4bcf7')
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 10:27:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 10:36:51 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 10:36:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:36:51 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 10:36:52 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:36:52 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@652110')
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@15dc37d')
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@cd83d8')
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@e7e8eb')
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@16cbd97')
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1321f5')
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 10:47:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 10:48:48 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 10:48:48 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:48:48 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 10:48:49 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:48:49 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@27cd63')
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@11d3226')
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1c79dfc')
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@ab835a')
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@3cbb4b')
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@12c4768')
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 10:49:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 10:49:56 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session accountBean pour la session E6917134368C34B6C7848FDD3FF19740
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 10:49:56 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session catalogBean pour la session E6917134368C34B6C7848FDD3FF19740
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 10:50:44 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 10:50:44 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:50:44 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 10:50:44 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 10:50:44 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@16d8196')
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@56b93a')
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@19abd2b')
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@aea710')
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@5a2eaa')
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@adae91')
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:01:58 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:01:58 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session accountBean pour la session 1208DB45584088E6F29B472180228485
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:629)
+24 mai 2007 11:02:15 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 11:02:15 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 11:02:15 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 11:02:15 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 11:02:15 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1a8402c')
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@10d0eae')
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@3eec1a')
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1115152')
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1f1f38e')
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1ad0839')
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:06:05 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:06:05 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session accountBean pour la session 02632E6ED1FFA662283C8CD7670ECA59
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 11:07:48 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 11:07:48 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 11:07:48 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 11:07:48 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 11:07:48 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@425743')
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@16ef705')
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1b7c76')
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1e2afb2')
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@17cfd38')
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@d480ea')
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:09:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:09:18 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session accountBean pour la session AA2A9A286E1FCBE07EE52F8A24EE22BF
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 11:13:07 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 11:13:07 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 11:13:07 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 11:13:07 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 11:13:07 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@17c2891')
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@4b82d2')
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@179d854')
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1c20eb7')
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1541147')
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@3a835d')
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 11:43:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 11:43:09 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session accountBean pour la session AA7ED96F65EF8B400C59E8E7168DF857
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 11:43:09 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session catalogBean pour la session AA7ED96F65EF8B400C59E8E7168DF857
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 14:32:51 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 14:32:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 14:32:51 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 14:32:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 14:32:51 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@996cca')
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@b57e9a')
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@18adae2')
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@17c96a9')
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@873723')
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@134eb84')
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 14:34:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 14:34:13 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session accountBean pour la session 7D5969A7058BFF95559832D2D6B8B37E
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 14:37:28 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 mai 2007 14:37:28 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 14:37:28 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 14:37:28 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mai 2007 14:37:28 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@fbf51d')
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@19977bd')
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@842d9a')
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@19067e5')
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1950e0a')
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@ccd21c')
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mai 2007 14:39:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mai 2007 14:39:47 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session accountBean pour la session B4233979A4D9367C5FD273491BF55C8F
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+24 mai 2007 14:39:47 org.apache.catalina.session.StandardSession writeObject
+ATTENTION: Impossible de sérialiser l'attribut de session catalogBean pour la session B4233979A4D9367C5FD273491BF55C8F
+java.io.NotSerializableException: com.ibatis.sqlmap.engine.mapping.statement.PaginatedDataList
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1075)
+	at java.io.ObjectOutputStream.defaultWriteFields(ObjectOutputStream.java:1369)
+	at java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1341)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1284)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1073)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:291)
+	at org.apache.catalina.session.StandardSession.writeObject(StandardSession.java:1460)
+	at org.apache.catalina.session.StandardSession.writeObjectData(StandardSession.java:936)
+	at org.apache.catalina.session.StandardManager.doUnload(StandardManager.java:516)
+	at org.apache.catalina.session.StandardManager.unload(StandardManager.java:462)
+	at org.apache.catalina.session.StandardManager.stop(StandardManager.java:666)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4278)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1065)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:447)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:512)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:714)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:586)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:561)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)

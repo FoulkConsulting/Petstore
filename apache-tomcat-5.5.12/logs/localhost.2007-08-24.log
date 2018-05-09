@@ -1,0 +1,30 @@
+24 août 2007 14:55:56 org.apache.catalina.core.ApplicationContext log
+INFO: org.apache.webapp.balancer.BalancerFilter: init(): ruleChain: [org.apache.webapp.balancer.RuleChain: [org.apache.webapp.balancer.rules.URLStringMatchRule: Target string: News / Redirect URL: http://www.cnn.com], [org.apache.webapp.balancer.rules.RequestParameterRule: Target param name: paramName / Target param value: paramValue / Redirect URL: http://www.yahoo.com], [org.apache.webapp.balancer.rules.AcceptEverythingRule: Redirect URL: http://jakarta.apache.org]]
+24 août 2007 14:55:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 août 2007 14:55:56 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 août 2007 14:55:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 août 2007 14:55:56 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 août 2007 14:57:50 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@b914b3')
+24 août 2007 14:57:50 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@fdfc58')
+24 août 2007 14:57:50 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@c22a3b')
+24 août 2007 14:57:50 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 août 2007 14:57:50 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 août 2007 14:57:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@1904e0d')
+24 août 2007 14:57:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@f449b8')
+24 août 2007 14:57:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeReplaced('org.apache.catalina.WELCOME_FILES', '[Ljava.lang.String;@13fba1')
+24 août 2007 14:57:51 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 août 2007 14:57:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
